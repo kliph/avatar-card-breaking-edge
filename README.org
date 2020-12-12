@@ -1,0 +1,2 @@
+* Avatar Card Breaking Edge
+An exercise in creating a card with an Avatar that breaks out of the container using relative positioning.
